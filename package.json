@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mysql2": "^3.12.0"
+  },
+  "name": "node_crud",
+  "version": "1.0.0",
+  "description": "this application is a simple crud to study the node js using mysql and the frontend build in react, to increase my habilities with this stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gfloriano11/node_crud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gfloriano11/node_crud/issues"
+  },
+  "homepage": "https://github.com/gfloriano11/node_crud#readme"
+}
